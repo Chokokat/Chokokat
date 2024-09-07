@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @Chokokat
 - 👀 I’m interested in games, anime.
-- 🌱 I’m currently learning "C++".
-- 💞️ I’m not looking to collaborate. (Still learning)
-- ⚡ Fun fact: I am very open and friendly!!
+- 🌱 I’m currently learning whatever I'm about to use.
